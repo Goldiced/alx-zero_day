@@ -1,1 +1,2 @@
-My second commit
+You got this
+Software coding is easy
